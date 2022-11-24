@@ -1,7 +1,5 @@
 import time
 from os import system
-
-
 def h():
     print('_________________')
     print('| created by PSA \ ')
